@@ -7,7 +7,7 @@ print(hasil1)
 hasil2 = a**b
 print(hasil2)
 
-# floor division 
+# floor division
 hasil3 = a//b
 print(hasil3)
 

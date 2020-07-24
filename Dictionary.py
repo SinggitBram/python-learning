@@ -3,6 +3,7 @@ thisdict = {
     "model": "Mustang",
     "year": 1964
 }
+
 thisdict["color"] = "red"
 thisdict["year"] = 2018
 thisdict.pop("model")
